@@ -1,0 +1,93 @@
+
+.conteiner{
+
+	float: left;
+	background: #E5E5E5;
+}
+
+
+.leftpanel { position: relative;
+	width: 230px; 
+	height: 100vh;
+	background: #0F1642;
+	border-radius: 8px}
+
+.topbar{
+
+	position: absolute;
+	width: 84vw;
+	height: 120px;
+	margin-left: 248px;
+	top: 0px;
+	background: #0F1642;
+	border-radius: 8px;
+
+}
+
+.topbar input {background: #0F1642; margin-top: 39px; margin-left: 58px; width: 639px; height:43px; border: 1px solid #21D1D1;
+box-sizing: border-box;
+border-radius: 5px;}
+
+.menu{}
+.menu li{ list-style: none; color: #FFF; }
+.menu li a{text-decoration: none; color: #FFF;font-size: 16px; }
+.menu li a:hover{ background: #21D1D1;  color: #000;  
+height: 61.47px;}
+
+ 
+
+.brend{
+	font-size: 36px;
+	color: #21D1D1;
+	margin-left: 43px; 
+	padding-top: 55px;
+}
+
+.scema{
+	position: absolute;
+	width: 1200px;
+	height: 1684px;
+	left: 248px;
+	top: 160px;
+	text-align: center;
+	color: #21D1D1;
+	padding-left: 58px;
+	padding-right:58px;
+	/* 1 */
+
+	background: #0F1642;
+	border-radius: 8px;
+	align-content: center;
+}
+.arFrame{
+	
+	margin-right
+	padding-top: 25px ;
+	border: 5px solid #21D1D1;
+	box-sizing: border-box;
+	border-radius: 8px;
+
+
+}
+.pallette{
+	background: #2B3253;
+	border-radius: 8px;
+	width: 368px;
+	height: 186px;
+	padding: 20px;
+	float:right;
+
+}
+.infoPanel{
+	position: absolute;
+	width: 275px;
+	height: 1124px;
+	right: 34px;
+	top: 160px;
+
+	/* 1 */
+
+	background: #0F1642;
+	border-radius: 8px;
+
+}

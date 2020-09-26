@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=`, initial-scale=1.0">
+	<title>Document</title>
+		<style>
+			.conteiner{
+				background: #E5E5E5;
+			}
+
+			.brend{
+					/* ConSys */
+				position: absolute;
+				width: 120px;
+				height: 39px;
+				left: 35px;
+				top: 28px;
+
+				font-family: Montserrat;
+				font-style: normal;
+				font-weight: 600;
+				font-size: 32px;
+				line-height: 39px;
+				/* identical to box height */
+
+
+				/* 3 */
+
+				color: #21D1D1;
+
+
+
+			}
+
+			.menu{
+				/* Rectangle 1 */
+			position: absolute;
+			width: 230px;
+			height: 1653px;
+			left: -8px;
+			top: -15px;
+
+			/* 1 */
+
+			background: #0F1642;
+			border-radius: 8px;
+			}
+		.menu li { list-style: none;
+			width: 212px;
+			height: 48px;
+			text-align: center;
+
+		 }
+		 .menu li a{ color: #FFF;
+
+
+
+		  }
+		 .menu li a:active{
+		 	position: absolute;
+			width: 212px;
+			height: 48px;
+			left: 0px;
+			top: 146px;
+
+				/* 3 */
+
+				background: #21D1D1;"><a  style="
+				position: absolute;
+				width: 118px;
+				height: 20px;
+				left: 72px;
+				top: 160px;
+
+				/* 16r */
+
+				font-family: Montserrat;
+				font-style: normal;
+				font-weight: normal;
+				font-size: 16px;
+				line-height: 20px;
+				/* identical to box height, or 125% */
+
+
+				/* 2 */
+
+				color: #2B3253;"
+				} 
+		.topbar{	
+			position: absolute;
+			width: 1440px;
+			height: 120px;
+			left: 248px;
+			top: 0px;
+
+			background: #0F1642;
+			border-radius: 8px;
+			}
+		.search{
+			position: absolute;
+			width: 639px;
+			height: 43px;
+			left: 306px;
+			top: 39px;
+			border: 1px solid #21D1D1;
+			box-sizing: border-box;
+			border-radius: 5px;
+			background: #0F1642;
+
+		}
+		.infoPanel{
+			position: absolute;
+			width: 275px;
+			height: 1124px;
+			left: 1131px;
+			top: 160px;
+
+			/* 1 */
+
+			background: #0F1642;
+			border-radius: 8px;}
+		.scema{
+			position: absolute;
+			width: 847px;
+			height: 1684px;
+			left: 277px;
+			top: 160px;
+
+			/* 1 */
+
+			background: #0F1642;
+			border-radius: 8px;
+
+	}
+	.titlesc{ position: absolute;
+		width: 755px;
+		height: 20px;
+		left: 304px;
+		top: 217px;
+
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 600;
+		font-size: 32px;
+		line-height: 20px;
+		/* identical to box height, or 62% */
+
+
+	/* 3 */
+
+	color: #21D1D1;
+	}
+	.avatar{
+
+		position: absolute;
+		width: 68px;
+		height: 59.2px;
+		left: 1175.1px;
+		top: 36.8px;
+
+
+
+	}
+.user{
+	float: left;
+	font-size: 16px;
+}
+
+
+		</style>
+</head>
+<body>
+	<div class="conteiner">
+	<ul  class="menu">
+		<li><span class="brend">ConSys</span></li>
+		<ul>
+		<li style =""><a  style="" href="#"> Проmфиль</a></li>
+		<li style =""
+>Мнемосхема1</a></li>
+		<li><a>Мнемосхема1</a></li>
+		<li><a></a></li>
+		<li></li>
+	</ul>, 
+	<div class="topbar">
+		<input class="search" type="text">
+
+		<div class="avatar">
+		<img src="/">
+		<span class="user">Данил Федоркин </span>
+		<span>админ</span>
+		</div>
+	</div>
+	<div class="scema">
+			<h1 style="text-align: center; color: #21D1D1; font-size: 32px; margin:55px;
+">Мнемосхема 1 производствоб OOBT,	ООГП </h1>
+
+	</div>
+	<div class="infoPanel"></div>
+</div>	
+</body>
+</html>

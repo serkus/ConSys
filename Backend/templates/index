@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=`, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<div class="comnainer">
+	<ul>
+		
+	{% for t in tasks %}
+		{% for d in t %}
+			<li>d</li>
+		{% endfor %}
+
+	{% endfor %} 
+	</ul>
+
+</div>	
+</body>
+</html>
